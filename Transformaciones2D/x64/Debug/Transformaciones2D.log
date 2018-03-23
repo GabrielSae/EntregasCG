@@ -1,0 +1,21 @@
+﻿  Application.cpp
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(53): warning C4309: 'argument': truncation of constant value
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(53): warning C4244: 'argument': conversion from 'const double' to 'const int', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(61): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(63): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(66): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(67): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(76): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(83): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(85): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(86): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(94): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(96): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(104): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(106): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(116): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(117): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(118): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(119): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+c:\users\gabriel\documents\computograficorespaldo\mydir\principiosdecg\transformaciones2d\src\application.cpp(154): warning C4309: 'argument': truncation of constant value
+  Transformaciones2D.vcxproj -> C:\Users\gabriel\Documents\ComputoGraficoRespaldo\myDir\PrincipiosDeCG\x64\Debug\Transformaciones2D.exe
