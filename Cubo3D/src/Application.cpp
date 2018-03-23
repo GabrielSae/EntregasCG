@@ -335,7 +335,7 @@ void Application::update()
 	Mat4 Acum0 = Mirar * proyeccion;
 	Mat4 Acum = RotarenX * RotarenY;
 	Mat4 Acum2 = RotarenZ * Trasladar;
-	Mat4 Acumulado1 = Mirar*proyeccion*Acum2 * Acum;
+	Mat4 Acumulado1 = Acum2 * Acum;
 	Mat4 Acumulado2 = Acum0 * Acumulado1;
 	Vcopy2.clear();//borra el cubo
 	for (int i = 0; i < V.size(); ++i) {
